@@ -1,7 +1,7 @@
 # Photo_resizer_and_cropper
 
 
-With the help of this little python script, you can resise one, ten or even 100000 images (depends on RAM
+With the help of this little python script, you can resize one, ten or even 100000 images (depends on RAM
 of your computer) at once. 
 
 What should you do?!

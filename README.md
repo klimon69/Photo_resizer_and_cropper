@@ -4,7 +4,7 @@
 With the help of this little python script, you can resise one, ten or even 100000 images (depends on RAM
 of your computer) at once. 
 
-What shoul you do?!
+What should you do?!
 
  - Launch Photo_resizer_and_cropper_v_1_0_1.py with any Python's IDE
  - Press "Open photo" and choose one or more photos from your computer(.jpg .png .bmp)
